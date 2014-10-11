@@ -1,0 +1,23 @@
+[
+  {title: "War and Peace", year: 1869, author: {first: "Leo", last: "Tolstoy"}},
+  {title: "The Hobbit", year: 1937, author: {first: "J.R.R.", last: "Tolkien"}},
+  {title: "Alice in Wonderland", year: 1865, author: {first: "Lewis", last: "Carroll"}},
+  {title: "Gone with the Wind", year: 1936, author: {first: "Margaret", last: "Mitchell"}},
+  {title: "Heart of Darkness", year: 1899, author: {first: "Joseph", last: "Conrad"}},
+  {title: "The Phantom Tollbooth", year: 1961, author: {first: "Norton", last: "Juster"}},
+  {title: "Dracula", year: 1897, author: {first: "Bram", last: "Stoker"}},
+  {title: "A Christmas Carol", year: 1843, author: {first: "Charles", last: "Dickens"}},
+  {title: "East of Eden", year: 1952, author: {first: "John", last: "Steinbeck"}},
+  {title: "For Whom the Bell Tolls", year: 1940, author: {first: "Earnest", last: "Hemingway"}},
+  {title: "The Picture of Dorian Gray", year: 1891, author: {first: "Oscar", last: "Wilde"}},
+  {title: "Nineteen Eighty-Four", year: 1949, author: {first: "George", last: "Orwell"}},
+  {title: "Little Women", year: 1868, author: {first: "Louisa May", last: "Alcott"}},
+  {title: "Roots: The Sage of an American Family", year: 1976, author: {first: "Alex", last: "Haley"}},
+  {title: "The Three Musketeers", year: 1844, author: {first: "Alexandre", last: "Dumas"}},
+  {title: "Pride and Prejudice", year: 1813, author: {first: "Jane", last: "Austen"}},
+  {title: "The Art of War", author: {first: "Sun", last: "Tzu"}},
+  {title: "The Prince", year: 1532, author: {first: "Niccolo", last: "Machiavelli"}},
+  {title: "Iliad", author: "Homer"},
+  {title: "Mistborn", year: 2006, author: {first: "Brandon", last: "Sanderson"}},
+  {title: "Don Quixote", year: 1605, author: {first: "Miguel", last: "Cervantes"}}
+]
